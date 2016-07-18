@@ -19,6 +19,8 @@ class CarService {
     
     func getCarInventory() -> [Car] {
         let request = NSFetchRequest(entityName: "Car")
+        request.fetchBatchSize = 16
+        
         let results: [Car]
         
         do {

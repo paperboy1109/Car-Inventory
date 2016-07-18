@@ -282,6 +282,7 @@
 			isa = PBXGroup;
 			children = (
 				DB63D6DB1C25B0B800BD1C91 /* LaunchScreen.storyboard */,
+				DB63D6D91C25B0B800BD1C91 /* Assets.xcassets */,
 				DB63D6D61C25B0B800BD1C91 /* Main.storyboard */,
 			);
 			name = Assets;
@@ -339,7 +340,6 @@
 				DB63D7B31C26165900BD1C91 /* cars.json */,
 				DB63D7041C2615E200BD1C91 /* images */,
 				DB63D6D21C25B0B800BD1C91 /* AppDelegate.swift */,
-				DB63D6D91C25B0B800BD1C91 /* Assets.xcassets */,
 				DB63D6DE1C25B0B800BD1C91 /* Info.plist */,
 				DB63D7001C2614F500BD1C91 /* InventoryCollectionViewController.swift */,
 				DB63D7021C26155100BD1C91 /* InventoryCollectionViewCell.swift */,
